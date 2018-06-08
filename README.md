@@ -15,6 +15,9 @@ Norfolk, VA 23502
 
 If you're standing on Kempsville Rd, Issuetrak is the entrance FACING Sentera Leigh Hospital.
 
+## Is there a Meetup page?
+Of course!  https://www.meetup.com/Hampton-Roads-NET-Users-Group/
+
 ## I'd love to speak at Hampton Roads .NET!
 That's AMAZING - we'd love to have you speak at HRNUG.  It's a really easy process.
 

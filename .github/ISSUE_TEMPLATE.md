@@ -1,8 +1,12 @@
 ---
-title: 'Month DD, YYYY Meeting'
-labels: "Need Speaker" Need Sponsor
+name: New Meetup 
+about: Used to anounce meetups
+title: 'Month DD, 2020 Meeting'
+labels: 'Need Speaker' 'Need Sponsor'
+assignees: ''
+
 ---
 
-Meeting Date: Month DD, YYYY
-Speaker: [ TODO ]
+Meeting Date: Month DD, 2020  
+Speaker: [ TODO ]  
 Sponsor: [ TODO ]
